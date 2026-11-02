@@ -1,0 +1,25 @@
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: #FAFAFA;
+  color: #1A1A1A;
+}
+
+.font-serif-editorial {
+  font-family: 'Playfair Display', Georgia, serif;
+}
+
+.bg-meli-yellow {
+  background-color: #FFE600;
+}
+
+.bg-meli-blue {
+  background-color: #2D3277;
+}
+
+.text-meli-blue {
+  color: #2D3277;
+}
+
+.border-meli-blue {
+  border-color: #2D3277;
+}
